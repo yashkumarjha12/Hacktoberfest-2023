@@ -42,7 +42,7 @@ down into multiple commits. You can use emoji here too :sparkles:
 ### 3. Lastly, submit your Pull Request ✅
 Go through the checklist on the pull request template to guarantee your submission is valid. Our team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section.
 
-*Note:* Don't Forget to add `hacktoberfest-accepted` Label.
+*<b>Note:</b>* Don't Forget to add the project in the Respected Programming language folder, if your language's folder isn't there, then Inform us to do so or you can do it by your own self as a contribution...!
 
 
 Please check first and then send your codes with discription.
